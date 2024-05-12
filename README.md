@@ -8,9 +8,11 @@ O sistema é ideal para aplicações web e móveis que precisam de autenticaçã
 ## 1. Instalação
 ### Requisitos
 
-Node.js
-MongoDB
-Postman (opcional, para testar a API)
+- Node.js
+
+- MongoDB
+
+- Postman (opcional, para testar a API)
 
 ### Passos de Instalação
 
